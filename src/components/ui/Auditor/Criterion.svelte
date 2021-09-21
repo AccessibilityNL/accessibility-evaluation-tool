@@ -11,7 +11,7 @@
   </header>
 
   <Details
-    label="{`${TRANSLATED.SHOW_DESCRIPTION_BUTTON} <span class="visuallyhidden">, ${test.title}</span>`}"
+    label="{`${TRANSLATED.SHOW_DESCRIPTION_BUTTON} <span class="visuallyhidden">, ${TRANSLATED.CRITERION.TITLE}</span>`}"
   >
     <div>{TRANSLATED.CRITERION.DESCRIPTION}</div>
 
