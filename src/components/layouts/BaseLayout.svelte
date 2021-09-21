@@ -12,17 +12,10 @@
     <GridItem area="full">
       <div class="tool-header">
         <div class="tool-header-name">
-          WCAG-EM R<span class="display-phablet">eport </span>T<span class="display-phablet">ool</span>
+          Accessibility Evaluation Tool
         </div>
         <div class="tool-header-logo">
-          <a href="http://w3.org/"><img
-              alt="W3C"
-              src="images/w3c.svg"
-            /></a>
-          <a href="http://w3.org/WAI/"><img
-              alt="Web Accessibility Initiative"
-              src="images/wai.svg"
-            /></a>
+          <!-- @TODO: Put some generic logo here to make it customizable -->
         </div>
       </div>
     </GridItem>
