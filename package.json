@@ -1,7 +1,7 @@
 {
     "name": "accessibility-evaluation-tool",
     "description": "Assistant to perform manual accessibility audits.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "repository": {
         "type": "git",
         "url": "github:AccessibilityNL/accessibility-evaluation-tool"
